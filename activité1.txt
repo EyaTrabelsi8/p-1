@@ -1,0 +1,42 @@
+Définition de Licences applicables sur les logiciels:
+    Une licence logicielle est un contrat juridique entre le concepteur du logiciel et l’utilisateur final, conçu pour protéger le logiciel en tant que propriété intellectuelle. Cette licence établit les droits et les restrictions associés à l'utilisation du logiciel et est généralement nécessaire pour légalement utiliser le logiciel.
+
+Les différents types de licences informatiques applicables, qu'elles soient associées à des 
+       logiciels open source, gratuits ou payants :
+  1.Licences Open Source:
+
+      .GNU General Public License (GPL): Les licences GPL (General Public License ou licence publique générale)
+ sont recommandées si vous souhaitez rendre votre code accessible et réutilisable par le plus grand nombre.
+ Elles bénéficient d’un copyleft fort. Exemple: Linux Kernel.
+
+      .MIT License: La licence MIT est une licence très permissive qui implique peu de contraintes 
+quant à la réutilisation du code, et sans copyleft. Elle est compatible avec de très nombreuses licences,
+notamment la GNU GPL. Exemple: jQuery.
+
+      .BSD License: La licence BSD est une licence open source permissive, sans copyleft, compatible avec la GNU GPL.
+Il est recommandé de ne pas utiliser la version originale à cause d’une clause de publicité 
+contraignante : la mention du copyright est obligatoire dans toute publicité ou document 
+fourni avec le logiciel. La nouvelle version de la licence BSD ne contient plus cette clause. Exemple: FreeBSD.
+
+  2.Licences Propriétaires:
+     Les Licences n’autorisent pas la modification ou la réutilisation du code et fournissent en général le logiciel
+ avec le code opérationnel uniquement, sans le code source. La licence logicielle propriétaire comprend
+ souvent des clauses qui interdisent à son titulaire de procéder au « reverse engineering » du code objet
+ dans le but d’obtenir le code source.
+
+
+  3.Licences Mixtes:
+
+      .Licence Double: Deux ensembles de conditions sont spécifiés par le tenant du droit d’auteur et un utilisateur peut choisir de se conformer à l’un ou à l’autre des ensembles de conditions pour utiliser l’oeuvre. Exemple: MySQL.
+
+      .Licence Freemium: C'est une version gratuite du logiciel avec des fonctionnalités de base, et une version premuim avec des fonctionnalités avancées. Exemple: Dropbox.
+
+      .Licence Shareware: permet aux utilisateurs d'essayer le logiciel pendant une période limitée, ils doivent acheter une licence pour continuer à l'utiliser. Exemple: WinRAR.
+
+
+
+Conclusion:
+   Il exite différents types de licences logicilles, notamment les licences open source, les licences propriétaires et les licences mixtes qui combinent des éléments des deux. Le choix de la licence dépend souvent des objectifs du développeur ou de l'entreprise qui publie le logiciel.
+     
+      
+
